@@ -1,6 +1,6 @@
-# 01-14-16-Presentation-Slides-SpriteKit-Tips
-January 16th, 2016, Denver Swift Head Meetup Slides: SpriteKit Tips
-See the "Universal-Game-Template-tvOS-OSX-iOS" repo as a companion to these slides.
+# Presentation Keynote Slides  
+January 16th, 2016, Denver Swift Head Meetup: SpriteKit Tips  
+See the [Universal-Game-Template-tvOS-OSX-iOS](https://github.com/DenverSwiftHeads/Universal-Game-Template-tvOS-OSX-iOS) repo as a companion to these slides.
 
 ##  Resources for SpriteKit/Game Dev
   

@@ -1,9 +1,6 @@
 # Swift Heads Presentation Keynote Slides  
 This is a supplementary project to Matthew Fecher's ([@goFecher](http://twitter.com/goFecher)) presentation on Swift & Sprite Kit Tips.  
-See the [Universal-Game-Template-tvOS-OSX-iOS](https://github.com/DenverSwiftHeads/Universal-Game-Template-tvOS-OSX-iOS) repo as a companion to these slides.
-
-### Swift Heads Presentation
-
+See the [Universal-Game-Template-tvOS-OSX-iOS](https://github.com/DenverSwiftHeads/Universal-Game-Template-tvOS-OSX-iOS) repo as a companion to these slides.  
 
 ##  Resources for SpriteKit/Game Dev
   
